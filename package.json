@@ -1,0 +1,19 @@
+{
+  "name": "testreacttoolbox",
+  "version": "1.0.0",
+  "description": "TestReactToolbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castle23/TestReactToolbox.git"
+  },
+  "author": "Carlos Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castle23/TestReactToolbox/issues"
+  },
+  "homepage": "https://github.com/castle23/TestReactToolbox#readme"
+}
